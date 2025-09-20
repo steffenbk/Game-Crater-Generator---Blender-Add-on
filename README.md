@@ -16,7 +16,7 @@ A Blender plugin for generating **realistic, game-ready crater meshes** with adv
 1. Download the `game_crater_generator.py` file.
 2. In Blender, go to:
    * `Edit` > `Preferences` > `Add-ons` > `Install...`
-3. Select the `game_crater_generator.py` file.
+3. Select the `Explosion craters generator.py` file.
 4. Click **Install Add-on**.
 5. Enable the add-on by checking the box next to its name.
 6. Access the tool from the **Add Mesh** menu.
