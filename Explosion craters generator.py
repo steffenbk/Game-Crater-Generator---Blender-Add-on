@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Game Crater Generator",
-    "author": "Game Asset Developer",
+    "author": "Steffen",
     "version": (1, 0, 1),
     "blender": (4, 2, 0),
     "location": "View3D > Add > Mesh > Game Crater",
@@ -1229,4 +1229,5 @@ def unregister():
 if __name__ == "__main__":
     register()
     print("Game Crater Generator loaded successfully!")
+
     print("Access via: Add > Mesh > Game Crater")
